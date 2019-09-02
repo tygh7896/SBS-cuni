@@ -1,0 +1,7 @@
+Build Tool : Maven
+JDK Version : 8
+Name : cuni(이건 바뀌어도 됨)
+Group : com.sbs
+Description : CUNI
+Package : com.sbs.cuni
+Artifact : cuni(이름과 동일)
